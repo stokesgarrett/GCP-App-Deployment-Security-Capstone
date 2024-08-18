@@ -1,4 +1,4 @@
-# GCP Containerized Application Deployment and Security Analysis Capstone
+# GCP App Deployment & Security Capstone
 
 ## Objective
 [Brief Objective - Remove this afterwards]

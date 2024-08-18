@@ -23,5 +23,5 @@ The GCP Application Deployment and Security Analysis project focused on deployin
 
 - The 'Project Files' directory contains essential files needed for each deployment.
 - 'Final Grade Report' is our professor's final grades and feedback on our Capstone Project.
-- 'Final Presentation' is our Powerpoint file that we presented as a team.
+- 'Final Presentation' is our Powerpoint file that we presented this Capstone project as a team.
 - 'Final Report' is the in-depth, 65 page final report that covers all the ins and outs of our Capstone Project.
